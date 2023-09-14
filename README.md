@@ -4,7 +4,7 @@
 
 - use `npm create vite@latest my-react-app --template react`
 
-## To start server run
+## To start server 
 
 - use `npm run dev`
 
